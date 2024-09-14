@@ -1,3 +1,5 @@
+I completed this basic app with help of some videos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
